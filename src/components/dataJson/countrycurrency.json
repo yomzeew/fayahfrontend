@@ -1,0 +1,26 @@
+[
+    {
+        "code":"ng",
+        "country":"Nigeria",
+        "currencycode":"&#x20A6",
+        "currency":"Naira"
+    },
+    {
+        "code":"cm",
+        "country":"Cameroun",
+        "currencycode":"CFA",
+        "currency":"franc"
+    },
+    {
+        "code":"us",
+        "country":"United State",
+        "currencycode":"&#xFF04;",
+        "currency":"USD"
+    },
+    {
+        "code":"gb",
+        "country":"United Kingdom",
+        "currencycode":"&#xa3;",
+        "currency":"Pound"
+    }
+]
